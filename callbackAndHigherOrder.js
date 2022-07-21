@@ -268,3 +268,4 @@ const addTen = addingFactory(10)
 // CODE HERE
 
 const addSeven = addingFactory(7)
+//finished
